@@ -45,7 +45,8 @@ Object craftcost reduced:
 -In progress... ( not ready yet, comment an idea on my steam page)
 
 
-/!\ The mod & this description is not clompete yet. Some issue can exist :/ /!\
+/!\ The mod & this description is not clompete yet. Some issue can exist :/ /!\\
+
 Help me to improve this mod :D!!
 it’s simple! just comment an idea!! ( crafting recipe - drop rate , drop item , ...)
 
