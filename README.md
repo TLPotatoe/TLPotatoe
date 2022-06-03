@@ -42,6 +42,8 @@ Classic loot boosted:
 
 Object craftcost reduced:
 
+All basics blocks (wood lvl 1-2-3, stone lvl 1-2-3, metal lvl 1-2-3, concrete lvl 1-2-3) and boosted for crating 32 per 32 insted of 10 per 10, time crating reduced for 3 sec
+
 -In progress... ( not ready yet, comment an idea on my steam page)
 
 
