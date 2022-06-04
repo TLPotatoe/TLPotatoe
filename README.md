@@ -31,7 +31,7 @@ Classic loot boosted:
 
 -CornPlant: 4 or 6
 
--CottonPlan: x3 every time
+-CottonPlan: x4 every time
 
 -OilGeyser: min 3 & max 7
 
